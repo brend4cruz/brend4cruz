@@ -1,14 +1,20 @@
 ##  # 👩🏻‍💻 Hello, my name is  Brenda Cruz
 
 
-- 🌱 I’m currently learning Java and Javascript ...
+- 🌱 I’m currently learning Java and Javascript ...  🚀
+
+
+
+
+
+![Fraga's GitHub stats](https://github-readme-stats.vercel.app/api?username=brend4cruz&show_icons=true&theme=neon)
 
 
 
 
 
 
-
+## Rede social:
 
 
   <a href="https://instagram.com/brenndacruuz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
